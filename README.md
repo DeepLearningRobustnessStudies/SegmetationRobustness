@@ -46,7 +46,7 @@ Directory Structure:
 ```
 
 ## Licensing
-COCO is under Creative Commons Attribution 4.0  and ADE20K is under BSD 3-Clause License. Please see [COCO](https://cocodataset.org/#home) and [ADE20K](https://groups.csail.mit.edu/vision/datasets/ADE20K/) for more details.
+COCO is under Creative Commons Attribution 4.0  and ADE20K is under BSD 3-Clause License. Please see [COCO](https://cocodataset.org/#home) and [ADE20K](https://groups.csail.mit.edu/vision/datasets/ADE20K/) for more details. Licensing information for each model are located in [models/](models).
 
 # Models
 See [README.md](models/README.md) for installation instructions and model details.
