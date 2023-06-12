@@ -50,3 +50,16 @@ COCO is under Creative Commons Attribution 4.0  and ADE20K is under BSD 3-Clause
 
 # Models
 See [README.md](models/README.md) for installation instructions and model details.
+
+# Related Asset & Acknowledgment
+Our work is relies on the open-source models built and inspired by several assets. 
+We gratefully thank the authors for their open-source projects that 
+allowed this benchmark to be possible:
+
+* ODISE: https://github.com/NVlabs/ODISE/
+* Mask2Former: https://github.com/facebookresearch/Mask2Former/
+* MaskDINO: https://github.com/IDEA-Research/MaskDINO
+* Detectron2: https://github.com/facebookresearch/detectron2/
+* mmsegmentation: https://github.com/open-mmlab/mmsegmentation
+* COCO panoptic: https://github.com/cocodataset/panopticapi
+
